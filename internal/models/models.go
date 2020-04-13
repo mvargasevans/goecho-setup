@@ -1,4 +1,4 @@
-// Manuel Vargas Evans, mvargasevans@gmail.com
+// Manuel Vargas Evans, github.com/mvargasevans@gmail.com
 
 // Package models can be used to define specific structures and its functions
 //

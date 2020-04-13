@@ -1,4 +1,4 @@
-// Manuel Vargas Evans, mvargasevans@gmail.com
+// Manuel Vargas Evans, github.com/mvargasevans@gmail.com
 
 // Package goecho-setup is a webserver based on Echo Framework.
 // https://echo.labstack.com/.
@@ -8,8 +8,8 @@
 package main
 
 import (
-	"mvargasevans/goecho-setup/internal/routes"
-	"mvargasevans/goecho-setup/internal/server"
+	"github.com/mvargasevans/goecho-setup/internal/routes"
+	"github.com/mvargasevans/goecho-setup/internal/server"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"

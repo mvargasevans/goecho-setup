@@ -1,4 +1,4 @@
-// Manuel Vargas Evans, mvargasevans@gmail.com
+// Manuel Vargas Evans, github.com/github.com/github.com/github.com/mvargasevans@gmail.com
 
 // Package handlers will manage all the REST API requests if needed.
 package handlers

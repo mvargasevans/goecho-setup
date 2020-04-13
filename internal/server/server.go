@@ -1,4 +1,4 @@
-// Manuel Vargas Evans, mvargasevans@gmail.com
+// Manuel Vargas Evans, github.com/mvargasevans@gmail.com
 
 // Package server handles the configuration of the Echo server.
 //

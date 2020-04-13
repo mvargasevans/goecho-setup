@@ -1,10 +1,10 @@
-// Manuel Vargas Evans, mvargasevans@gmail.com
+// Manuel Vargas Evans, github.com/mvargasevans@gmail.com
 
 // Package routes sets the routes for the application
 package routes
 
 import (
-	"mvargasevans/goecho-setup/internal/handlers"
+	"github.com/mvargasevans/goecho-setup/internal/handlers"
 
 	"github.com/labstack/echo/v4"
 )
