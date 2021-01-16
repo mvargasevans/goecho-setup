@@ -10,3 +10,6 @@ a couple of parameters can be changed in the Dockerfile to match your architectu
 # Installation
 
 Clone the directory and use `go build` to compile.
+
+# Comments
+mvargasevans@gmail.com
